@@ -13,7 +13,7 @@ GravatarDemo-Racket
 ## Installation
 
 1. Download this project.
-2. Install and run [DrRacket](https://download.racket-lang.org/).
+2. Install [Racket](https://download.racket-lang.org/) and run DrRacket.
 3. Install the _http_ package via the menubar: _File -> Install Package..._
 4. Open _racket.rkt_.
 5. Load the file in the REPL via the menubar: _Racket -> Run_

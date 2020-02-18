@@ -1,10 +1,12 @@
 #lang racket
 
-;;;; Based on https://lisp.sh/fetch-a-url/
+#|
+Based on https://lisp.sh/fetch-a-url/
 
-;;; To use "http-request" via another Racket file:
-;;; (require "./fetch-a-url.rkt") ; Update file location
-;;; (include "./fetch-a-url.rkt")
+To use "http-request" via another Racket file:
+(require "./fetch-a-url.rkt") ; Update file location
+(include "./fetch-a-url.rkt")
+|#
 
 ;; Package "http" is not installed by default.
 ;; To install, execute via a shell: "raco pkg install http"

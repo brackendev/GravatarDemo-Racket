@@ -1,5 +1,13 @@
 #lang racket
 
+#|
+gravatar.rkt
+GravatarDemo-Racket
+
+Created by brackendev.
+Copyright (c) 2020 brackendev. All rights reserved.
+|#
+
 (require file/md5
          json
          net/url

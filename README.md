@@ -7,7 +7,7 @@ GravatarDemo-Racket
 
 **[Racket](https://racket-lang.org/) implementation to interact with the [Gravatar API](https://en.gravatar.com/site/implement/).**
 
-* [DrRacket 7.6](https://download.racket-lang.org/) reference platform.
+* [DrRacket 7.7](https://download.racket-lang.org/) reference platform.
 * Tests included.
 
 ## Installation

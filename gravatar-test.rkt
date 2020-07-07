@@ -1,5 +1,13 @@
 #lang racket
 
+#|
+gravatar-test.rkt
+GravatarDemo-Racket
+
+Created by brackendev.
+Copyright (c) 2020 brackendev. All rights reserved.
+|#
+
 (require "gravatar.rkt")
 
 (module+ test

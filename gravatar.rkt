@@ -21,7 +21,7 @@ Copyright (c) 2020 brackendev. All rights reserved.
   (format "~a" (md5 email)))
 
 (define (image-url email size)
-    (string-append "http://www.gravatar.com/avatar/" (md5-email email) "?s=" (number->string size) "&r=x"))
+    (string-append "https://www.gravatar.com/avatar/" (md5-email email) "?s=" (number->string size) "&r=x"))
 
 (define (profile-url email)
   (string-append "https://www.gravatar.com/" (md5-email email) ".json"))

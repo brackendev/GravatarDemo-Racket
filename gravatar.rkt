@@ -4,8 +4,8 @@
 gravatar.rkt
 GravatarDemo-Racket
 
-Created by brackendev.
-Copyright (c) 2020 brackendev. All rights reserved.
+Created by Bracken Spencer.
+Copyright (c) 2020-2021 Bracken Spencer. All rights reserved.
 |#
 
 (require file/md5

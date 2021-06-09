@@ -7,7 +7,7 @@ GravatarDemo-Racket
 
 **[Racket](https://racket-lang.org/) implementation to interact with the [Gravatar API](https://en.gravatar.com/site/implement/).**
 
-* [DrRacket 7.7](https://download.racket-lang.org/) reference platform.
+* [DrRacket 8.1](https://download.racket-lang.org/) reference platform.
 * Tests included.
 
 ## Installation
@@ -15,7 +15,7 @@ GravatarDemo-Racket
 1. Download this project.
 2. Install [Racket](https://download.racket-lang.org/) and run DrRacket.
 3. Install the _http_ package via the menubar: _File -> Install Package..._
-4. Open _racket.rkt_.
+4. Open _racket.rkt_ from this repository.
 5. Load the file in the REPL via the menubar: _Racket -> Run_
 
 ## Example Usage
@@ -43,15 +43,15 @@ raco test gravatar-test.rkt
 
 ## Author
 
-[brackendev](https://www.github.com/brackendev)
-
-## License
-
 Bracken Spencer
 
 * [GitHub](https://www.github.com/brackendev)
 * [LinkedIn](https://www.linkedin.com/in/brackenspencer/)
 * [Twitter](https://twitter.com/brackendev)
+
+## License
+
+GravatarDemo-Racket is released under the MIT license. See the LICENSE file for more info.
 
 - - -
 

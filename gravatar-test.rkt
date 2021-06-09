@@ -4,8 +4,8 @@
 gravatar-test.rkt
 GravatarDemo-Racket
 
-Created by brackendev.
-Copyright (c) 2020 brackendev. All rights reserved.
+Created by Bracken Spencer.
+Copyright (c) 2020-2021 Bracken Spencer. All rights reserved.
 |#
 
 (require "gravatar.rkt")
@@ -22,7 +22,7 @@ Copyright (c) 2020 brackendev. All rights reserved.
                   "5658ffccee7f0ebfda2b226238b1eb6e")
      (test-equal? "image-url"
                   (image-url "email@example.com" 200)
-                  "http://www.gravatar.com/avatar/5658ffccee7f0ebfda2b226238b1eb6e?s=200&r=x")
+                  "https://www.gravatar.com/avatar/5658ffccee7f0ebfda2b226238b1eb6e?s=200&r=x")
      (test-equal? "profile-url"
                   (profile-url "email@example.com")
                   "https://www.gravatar.com/5658ffccee7f0ebfda2b226238b1eb6e.json")))

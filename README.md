@@ -10,6 +10,10 @@ GravatarDemo-Racket
 * [DrRacket 8.1](https://download.racket-lang.org/) reference platform.
 * Tests included.
 
+## TODO
+
+- [ ] Support latest Racket release
+
 ## Installation
 
 1. Download this project.

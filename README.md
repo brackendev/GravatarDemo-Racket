@@ -12,7 +12,7 @@ GravatarDemo-Racket
 
 ## TODO
 
-- [ ] Support latest Racket release
+- [ ] Support the latest Racket release.
 
 ## Installation
 
